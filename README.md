@@ -34,6 +34,8 @@ Welcome to my GitHub profile! I'm a first-year Computer Science and Engineering 
 - [LinkedIn](https://www.linkedin.com/in/omkhalane)
 - [GitHub](https://github.com/omkhalane)
 - [Email](mailto:om.j.khalane@gmail.com)
+-  [LeetCode](https://leetcode.com/omkhalane)  
+- [Codeforces](https://codeforces.com/profile/omkhalane)
 
 Feel free to reach out to me for collaboration, feedback, or just a friendly tech discussion. Let's connect and learn together!
 
