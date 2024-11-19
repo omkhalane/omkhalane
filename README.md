@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a first-year Computer Science and Engineering 
 
 ## 📂 Projects
 
-### 🚀 [UI Wars](https://omkhalane.github.io/PCCOE-UI_WARS_COMPETITION_ROUND2-/)
+### 🚀 UI WARS Competition [[Visit Website]](https://omkhalane.github.io/PCCOE-UI_WARS_COMPETITION_ROUND2-/)
 - **Description**: A responsive and modern website designed for the UI Wars competition at PCCOE. The website is built to represent Team Kartos Racing Electric, a club at PCCOE dedicated to designing and building electric racing vehicles.
 - **Features**:
   - **Responsive Design**: Fully optimized for mobile, tablet, and desktop devices.
