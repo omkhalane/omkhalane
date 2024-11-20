@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a first-year Computer Science and Engineering 
 
 #### **Activity**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkhalane&show_icons=true&theme=dark&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omkhalane)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkhalane&theme=dark&hide_border=bold)](https://git.io/streak-stats)
 
 
