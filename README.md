@@ -38,13 +38,14 @@ Welcome to my GitHub profile! I'm a first-year Computer Science and Engineering 
 ---
 
 ---
-
 ## 📂 Projects
-
 
 | **Sr. No.** | **Project Name**         | **Description**                                                                                                                                                        | **Link**                                                                                       | **Features**                                                                                                                                              | **Technologies Used**       |
 |-------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
 | 1           | **UI WARS Competition**  | A responsive and modern website designed for the UI Wars competition at PCCOE, representing **Team Kartos Racing Electric**, a club dedicated to electric racing vehicles. | [Visit Website](https://omkhalane.github.io/PCCOE-UI_WARS_COMPETITION_ROUND2-/)               | - Responsive Design<br>- Club Showcase<br>- Dynamic Interactivity<br>- Optimized Performance                                                             | HTML, CSS, JavaScript       |
+| 2           | **Weather Forecast**     | A simple and intuitive web application that provides real-time weather information for any location worldwide.                                                       | [Visit Website](https://omkhalane.github.io/weather.forecast)                                 | - Real-time Weather Updates<br>- Location Detection<br>- Hourly & Daily Forecasts<br>- Responsive Design                                                 | HTML, CSS, JavaScript       |
+
+---
 
 ## 🌐 Skills & Technologies
 
