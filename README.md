@@ -113,5 +113,10 @@ Feel free to reach out to me for collaboration, feedback, or just a friendly tec
 
 
 
+<br><br><br><br><br><br><br><br>
+<p align="center"
+  
+  [![](https://visitcount.itsvg.in/api?id=omkhalane&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+</p>
 
 
