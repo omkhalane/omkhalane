@@ -1,4 +1,4 @@
-# Hi, I'm Om Jitendra Khalane 👋
+# Hi, I'm Om  Khalane 👋
 
 Welcome to my GitHub profile! I'm a first-year Computer Science and Engineering student at **Pimpri Chinchwad College of Engineering**. I'm passionate about coding, software development, and problem-solving. I'm always eager to learn new technologies and improve my skills.
 
